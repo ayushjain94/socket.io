@@ -17,6 +17,6 @@
     "test": "test",
     "start": "node server.js"
   },
-  "author": "Ayush Jain (ajain37@ncsu.edu)",
+  "author": "Ayush Jain (http://ayushjain.me)",
   "license": "ISC"
 }
